@@ -1,0 +1,4 @@
+To execute and run the code, you'll have to install the 'pygame' library.
+Type the following code in your terminal/command prompt to install the library.
+******************
+pip install pygame
